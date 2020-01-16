@@ -1,0 +1,7 @@
+Host Id,Description,Neighbourhood ,Property Type,Review Scores Rating (bin),Room Type,Zipcode,Beds,Number of Records,Number Of Reviews,Price,out_of_date
+5162530,1 Bedroom in Prime Williamsburg,Brooklyn,Apartment,96,Entire home/apt,11249,1,1,5,145,TRUE
+33134899,"Sunny, Private room in Bushwick",Brooklyn,Apartment,93,Private room,11206,1,1,1,37,TRUE
+39608626,Sunny Room in Harlem,Manhattan,Apartment,99,Private room,10032,1,1,1,28,FALSE
+500,Gorgeous 1 BR with Private Balcony,Manhattan,Apartment,1000,Entire home/apt,10024,3,1,5,199,FALSE
+500,"Trendy Times Square Loft, With Roommate",Manhattan,Apartment,955,Private room,10036,three,1,39,5499,FALSE
+1039,Big Greenpoint 1BD w/ Skyline View,Brooklyn,Apartment,100,Entire home/apt,11222,1,1,4,149,FALSE
