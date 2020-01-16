@@ -14,12 +14,12 @@
 * Interactive lesson
 	*  Learn to use github
 	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSfpR7lrAiDqjcF5-GaEQa6A7-KG8DAzRmwfyvdi5gr6MDffIA/viewform?usp=sf_link)
-* [Assignment 1]()
+* [Assignment 1](https://github.com/shmcminn/AU-data-spring2019/blob/master/class1/assignment1.md)
 	* Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 *  Lecture
 	* Government data
 	* Other data sources
 	* Data types
 	* Thinking critically about data
-* [Assignment 2]()
+* [Assignment 2](https://github.com/shmcminn/AU-data-spring2019/blob/master/class1/assignment2.md)
 	* Compile own dataset
