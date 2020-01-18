@@ -4,7 +4,7 @@
 
 **Instructor**: Sean McMinn
 
-**Contact**: email TK. On weekdays, I will try to respond to all emails within 24 hours. If you do not hear from me within that time frame, feel free to send a follow-up email.
+**Contact**: seanpm92@gmail.com On weekdays, I will try to respond to all emails within 24 hours. If you do not hear from me within that time frame, feel free to send a follow-up email.
 
 **Class time**: 9 a.m. - 5 p.m., Saturdays
 
