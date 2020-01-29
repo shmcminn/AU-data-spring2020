@@ -125,7 +125,9 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Lecture
 	* Analyzing data
 * Interactive lesson
-* [Assignment 5](https://github.com/shmcminn/AU-data-spring2019/blob/master/class4/assignment6.md)
+* [Assignment 5](https://github.com/shmcminn/AU-data-spring2019/blob/master/class3/assignment5.md)
+	* Pitch a story
+* [Assignment 6](https://github.com/shmcminn/AU-data-spring2019/blob/master/class4/assignment6.md)
 	* 3 interesting questions to analyze a dataset
 * Lecture
 	* Stats for journalists
@@ -136,8 +138,6 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 * Share data stories
 * 4x: Review a story, work in groups to recreate the data reporting
-* [Assignment 6](https://github.com/shmcminn/AU-data-spring2019/blob/master/class3/assignment5.md)
-	* Pitch a story
 
 **Class 5: Data visualization/Presenting and storytelling with data (Feb. 22)**
 
