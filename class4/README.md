@@ -1,4 +1,4 @@
-**Class 3: Deconstructing stories (Feb. 1)**
+**Class 4: Deconstructing stories (Feb. 15)**
 
 ### Deconstructing stories
 
