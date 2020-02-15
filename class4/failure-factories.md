@@ -15,4 +15,5 @@ Reverse engineering based on this: https://github.com/aplayford/nicar17-python-d
 	* poverty (free lunch)
 	* majority black schools
 	* cross of poverty vs majority black
+5. Something in the water
 	* pre-k ready
