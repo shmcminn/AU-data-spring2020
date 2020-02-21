@@ -143,8 +143,6 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 * Lecture
 	* Data viz
-* Interactive lesson
-	* Tableau Public
 * Assignment
 	* Work on final project OR
 	* Extra credit data viz
