@@ -1,6 +1,6 @@
 # Extra Credit Assignment
 
-Due Feb 29. at 9 a.m.
+Due Saturday Feb. 29 at 9 a.m.
 
 **This assignment can earn you up to 1.5% pts. for your final class grade.**
 
